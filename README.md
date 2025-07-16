@@ -2,7 +2,7 @@
 
 **FluxIP** adalah aplikasi desktop berbasis Python + PyQt6 untuk mengganti proxy (HTTP / SOCKS4 / SOCKS5) secara **global** di macOS. Support semua aplikasi (Steam, Discord, Chrome, dll), baik **Wi-Fi maupun Ethernet**.
 
-![screenshot](preview.png) <!-- Tambahkan screenshot jika ada -->
+![screenshot](https://imgur.com/88618773-e32f-4a9c-ba8f-bf80d1f43b6c) <!-- Tambahkan screenshot jika ada -->
 
 ---
 
